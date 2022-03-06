@@ -1,6 +1,6 @@
 # SarasvathiParijatha
 
-New version  new repository to play ih GIT!!!
+New version  new repository to play ih GIT
 
 
 
